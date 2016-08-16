@@ -58,6 +58,13 @@
 		1848BC9B1D62C6CC00A23282 /* 回家吃饭 */ = {
 			isa = PBXGroup;
 			children = (
+				1848BCC71D62ED1A00A23282 /* Applelation */,
+				1848BCB41D62EC0300A23282 /* 分类 */,
+				1848BCB51D62EC0300A23282 /* 网络 */,
+				1848BCC31D62EC0300A23282 /* Define */,
+				1848BCC41D62EC0300A23282 /* Resource */,
+				1848BCC51D62EC0300A23282 /* Tool */,
+				1848BCC61D62EC0300A23282 /* Vendor */,
 				1848BC9F1D62C6CC00A23282 /* AppDelegate.h */,
 				1848BCA01D62C6CC00A23282 /* AppDelegate.m */,
 				1848BCA21D62C6CC00A23282 /* ViewController.h */,
@@ -77,6 +84,175 @@
 				1848BC9D1D62C6CC00A23282 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		1848BCB41D62EC0300A23282 /* 分类 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "分类";
+			sourceTree = "<group>";
+		};
+		1848BCB51D62EC0300A23282 /* 网络 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "网络";
+			sourceTree = "<group>";
+		};
+		1848BCC31D62EC0300A23282 /* Define */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Define;
+			sourceTree = "<group>";
+		};
+		1848BCC41D62EC0300A23282 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		1848BCC51D62EC0300A23282 /* Tool */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Tool;
+			sourceTree = "<group>";
+		};
+		1848BCC61D62EC0300A23282 /* Vendor */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Vendor;
+			sourceTree = "<group>";
+		};
+		1848BCC71D62ED1A00A23282 /* Applelation */ = {
+			isa = PBXGroup;
+			children = (
+				1848BCC81D62ED1A00A23282 /* 发现 */,
+				1848BCCD1D62ED1A00A23282 /* 我的 */,
+				1848BCD21D62ED1A00A23282 /* 首页 */,
+			);
+			path = Applelation;
+			sourceTree = "<group>";
+		};
+		1848BCC81D62ED1A00A23282 /* 发现 */ = {
+			isa = PBXGroup;
+			children = (
+				1848BCC91D62ED1A00A23282 /* Model */,
+				1848BCCA1D62ED1A00A23282 /* View */,
+				1848BCCB1D62ED1A00A23282 /* ViewController */,
+				1848BCCC1D62ED1A00A23282 /* ViewModel */,
+			);
+			path = "发现";
+			sourceTree = "<group>";
+		};
+		1848BCC91D62ED1A00A23282 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		1848BCCA1D62ED1A00A23282 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		1848BCCB1D62ED1A00A23282 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		1848BCCC1D62ED1A00A23282 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		1848BCCD1D62ED1A00A23282 /* 我的 */ = {
+			isa = PBXGroup;
+			children = (
+				1848BCCE1D62ED1A00A23282 /* Model */,
+				1848BCCF1D62ED1A00A23282 /* View */,
+				1848BCD01D62ED1A00A23282 /* ViewController */,
+				1848BCD11D62ED1A00A23282 /* ViewModel */,
+			);
+			path = "我的";
+			sourceTree = "<group>";
+		};
+		1848BCCE1D62ED1A00A23282 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		1848BCCF1D62ED1A00A23282 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		1848BCD01D62ED1A00A23282 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		1848BCD11D62ED1A00A23282 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		1848BCD21D62ED1A00A23282 /* 首页 */ = {
+			isa = PBXGroup;
+			children = (
+				1848BCD31D62ED1A00A23282 /* Model */,
+				1848BCD41D62ED1A00A23282 /* View */,
+				1848BCD51D62ED1A00A23282 /* ViewController */,
+				1848BCD61D62ED1A00A23282 /* ViewModel */,
+			);
+			path = "首页";
+			sourceTree = "<group>";
+		};
+		1848BCD31D62ED1A00A23282 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		1848BCD41D62ED1A00A23282 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		1848BCD51D62ED1A00A23282 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		1848BCD61D62ED1A00A23282 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -265,6 +441,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "回家吃饭/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "tarena.----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -276,6 +453,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "回家吃饭/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "tarena.----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
