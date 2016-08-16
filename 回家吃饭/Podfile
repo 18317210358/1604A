@@ -1,0 +1,25 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '9.0'
+
+target '回家吃饭' do
+    # Uncomment this line if you're using Swift or would like to use dynamic frameworks
+    # use_frameworks!
+    
+    # Pods for 回家吃饭
+    pod 'pop'
+    pod 'AFNetworking'
+    pod 'MJRefresh'
+    pod 'Masonry'
+    pod 'BlocksKit'
+    pod 'CocoaLumberjack'
+    pod 'MBProgressHUD'
+    pod 'TPKeyboardAvoiding'
+    pod 'MLTransition'
+    pod 'YYKit'
+    pod 'CHTCollectionViewWaterfallLayout'
+    pod 'iCarousel'
+    pod 'WMPageController'
+    pod 'MWPhotoBrowser'
+    pod 'UITableView+FDTemplateLayoutCell'
+    
+end
